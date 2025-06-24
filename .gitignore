@@ -1,11 +1,4 @@
-# Ignore Python environments and build folders
-faceapp/Lib/
-faceapp/Include/
-faceapp/Scripts/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+
 
 # Ignore virtual environments
 .env
